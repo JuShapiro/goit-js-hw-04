@@ -1,1 +1,1 @@
-# template-repo-for-js-tasks
+goit-hw-04
